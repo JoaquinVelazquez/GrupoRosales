@@ -3992,6 +3992,16 @@ a {
   rotate: 90deg;
 }
 
+.subcategorias li {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.subcategorias li img{
+  transform: none!important;
+}
+
 /* CATEGORIAS */
 .categories {
   font-family: "Google Sans", Roboto, arial, sans-serif;

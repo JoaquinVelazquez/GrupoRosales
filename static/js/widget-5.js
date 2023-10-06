@@ -5,7 +5,7 @@ if (url === "/sucursales") {
   const sucursales = `
 <section class="seller-points" id="sucursales">
 <h2>PUNTOS DE VENTA</h2>
-<div class="sell-group">
+<div class="sell-group">                      
   <div class="sell-box">
     <div class="sell-point">
       <img src="https://iili.io/Jdz2vfe.png" class="sell-img" alt="">
@@ -17,12 +17,12 @@ if (url === "/sucursales") {
 
     <div class="sell-point">
       <img src="https://iili.io/JdzBvqB.png" class="sell-img" alt="">
-      <p>7078-1042</p>
+      <a href="tel:70781042">7078-1042</a>
     </div>
 
     <div class="sell-point">
       <img src="https://iili.io/JdzCFB2.png" class="sell-img" alt="">
-      <p>repuestosavellaneda@grupo-rosales.com.ar</p>
+      <a href="mailto:repuestosavellaneda@grupo-rosales.com.ar">repuestosavellaneda@grupo-rosales.com.ar</a>
     </div>
 
     <div class="sell-point">
@@ -45,12 +45,12 @@ if (url === "/sucursales") {
 
     <div class="sell-point">
       <img src="https://iili.io/JdzBvqB.png" class="sell-img" alt="">
-      <p>7078-1043</p>
+      <a href="tel:70781043">7078-1043</a>
     </div>
 
     <div class="sell-point">
       <img src="https://iili.io/JdzCFB2.png" class="sell-img" alt="">
-      <p>repuestosrosales@grupo-rosales.com.ar</p>
+      <a href="mailto:repuestosrosales@grupo-rosales.com.ar">repuestosrosales@grupo-rosales.com.ar</a>
     </div>
 
     <div class="sell-point">
@@ -73,12 +73,12 @@ if (url === "/sucursales") {
 
     <div class="sell-point">
       <img src="https://iili.io/JdzBvqB.png" class="sell-img" alt="">
-      <p>7078-1047</p>
+      <a href="tel:70781047">7078-1047</a>
     </div>
 
     <div class="sell-point">
       <img src="https://iili.io/JdzCFB2.png" class="sell-img" alt="">
-      <p>totalrepuestos@grupo-rosales.com.ar</p>
+      <a href="mailto:totalrepuestos@grupo-rosales.com.ar">totalrepuestos@grupo-rosales.com.ar</a>
     </div>
 
     <div class="sell-point">
@@ -101,12 +101,12 @@ if (url === "/sucursales") {
 
     <div class="sell-point">
       <img src="https://iili.io/JdzBvqB.png" class="sell-img" alt="">
-      <p>7078-1045</p>
+      <a href="tel:70781045">7078-1045</a>
     </div>
 
     <div class="sell-point">
       <img src="https://iili.io/JdzCFB2.png" class="sell-img" alt="">
-      <p>rosalesv@grupo-rosales.com.ar</p>
+      <a href="mailto:rosalesv@grupo-rosales.com.ar">rosalesv@grupo-rosales.com.ar</a>
     </div>
 
     <div class="sell-point">
@@ -129,12 +129,12 @@ if (url === "/sucursales") {
 
     <div class="sell-point">
       <img src="https://iili.io/JdzBvqB.png" class="sell-img" alt="">
-      <p>7078-1046</p>
+      <a href="tel:70781046">7078-1046</a>
     </div>
 
     <div class="sell-point">
       <img src="https://iili.io/JdzCFB2.png" class="sell-img" alt="">
-      <p>rosales6@grupo-rosales.com.ar</p>
+      <a href="mailto:rosales6@grupo-rosales.com.ar">rosales6@grupo-rosales.com.ar</a>
     </div>
 
     <div class="sell-point">
